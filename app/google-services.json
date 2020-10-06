@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "561728524126",
+    "firebase_url": "https://ml-kit---real-human-detection.firebaseio.com",
+    "project_id": "ml-kit---real-human-detection",
+    "storage_bucket": "ml-kit---real-human-detection.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561728524126:android:98c37e594a1a5382ee49cf",
+        "android_client_info": {
+          "package_name": "com.rktuhinbd.mlkit_realhumandetection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "561728524126-0vec99gv24clr0tb87jnvvenftram4ch.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rktuhinbd.mlkit_realhumandetection",
+            "certificate_hash": "c5e3630ff8256b7a82027bed416d1044604a2e00"
+          }
+        },
+        {
+          "client_id": "561728524126-l540khe93ri3go0g74upupqpbnifu1oj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBf08bzs0qSKgMoDGZgjJ1gBi14VbQhaWE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "561728524126-l540khe93ri3go0g74upupqpbnifu1oj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
